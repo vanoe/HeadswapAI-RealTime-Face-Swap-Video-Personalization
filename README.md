@@ -6,6 +6,67 @@ This technology **eliminates reshoots and additional cast**, enabling creators t
 
 ---
 
+## Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-1.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+            <td width="50%"></td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td width="33.3333%">
+                <img src="./img/img-4.jpg" alt="img" />
+            </td>
+            <td width="33.3333%">
+                <img src="./img/img-5.jpg" alt="img" />
+            </td>
+            <td width="33.3333%">
+                <img src="./img/img-6.jpg" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="33.3333%">
+                <img src="./img/img-7.png" alt="img" />
+            </td>
+            <td width="33.3333%">
+                <img src="./img/img-8.png" alt="img" />
+            </td>
+            <td width="33.3333%">
+                <img src="./img/img-9.jpg" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="33.3333%">
+                <img src="./img/img-10.jpg" alt="img" />
+            </td>
+            <td width="33.3333%">
+                <img src="./img/img-11.png" alt="img" />
+            </td>
+            <td width="33.3333%">
+                <img src="./img/img-12.jpg" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 📊 Full Description
 
 <details>
