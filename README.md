@@ -6,6 +6,11 @@ This technology **eliminates reshoots and additional cast**, enabling creators t
 
 ---
 
+## 📊 Full Description
+
+<details>
+  <summary>📖 Click to expand the Description</summary>
+
 ## 🎬 Overview
 In today’s fast-paced digital media landscape, content creators are challenged to produce varied, engaging videos **under tight deadlines and limited resources**.
 
@@ -92,3 +97,4 @@ In today’s fast-paced digital media landscape, content creators are challenged
 - DeepFake Survey – Yisroel Mirsky, Wenke Lee
 - Face Detection with Faster R-CNN – Shaoqing Ren et al.
 
+</details>
